@@ -1,5 +1,9 @@
 {
-	"Name": "Spinal Cord MRI Public Database",
-	"BIDSVersion": "1.2.0",
-	"Authors": ["Julien Cohen-Adad"]
+    "Name": "Spinal Cord MRI Public Database",
+    "BIDSVersion": "1.2.0",
+    "Authors": [
+        "Julien Cohen-Adad"
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds002393.v1.0.0",
+    "License": "CC0"
 }
