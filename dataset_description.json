@@ -5,5 +5,6 @@
         "Julien Cohen-Adad"
     ],
     "DatasetDOI": "10.18112/openneuro.ds002393.v1.0.0",
-    "License": "CC0"
+    "License": "CC0",
+    "Acknowledgements": "We thank Gerald Moran and Bart Schraa (Siemens Healthcare), Suchandrima Banerjee and Naoyuki Takei (GE Healthcare), Carollyn Hurst, Andr\u00e9 Cyr, Arnaud Bor\u00e9 and Pierre Bellec (Functional Neuroimaging Unit), Charles Tremblay (Polytechnique Montreal), Antonys Melek and Habib Benali (PERFORM center, Concordia University), Ives Lesveques (McGill University) and all the volunteers who participated in the Spinal Cord MRI Public Database."
 }
