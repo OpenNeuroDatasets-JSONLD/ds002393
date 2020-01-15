@@ -1,5 +1,5 @@
 {
-    "Name": "Spinal Cord MRI Public Database",
+    "Name": "Spinal Cord MRI Public Database (Single-subject)",
     "BIDSVersion": "1.2.0",
     "Authors": [
         "Julien Cohen-Adad"
